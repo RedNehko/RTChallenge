@@ -6,7 +6,9 @@ Petit jeu programmer en JAVA.
 Version actuelle : 1.0 BETA
 
 Statut du code : non optimisé
+
 Nombre de lignes : 177
+
 Développeur : RedNehko
 
 Installation sous Linux pour version 1.0 BETA :
